@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="70dp"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/logo" />
+        android:src="@drawable/logo"
+        android:contentDescription="@string/todo" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -21,7 +22,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="60dp"
         android:layout_marginBottom="50dp"
-        android:text="Bem-vindo ao fluig"
+        android:text="@string/bem_vindo_ao_fluig"
         android:textColor="@android:color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -33,10 +34,10 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="20dp"
         android:layout_marginRight="30dp"
-        android:text="Antes de começar, adicione sua conta do fluig"
+        android:text="@string/antes_de_come_ar_adicione_sua_conta_do_fluig"
         android:textAlignment="center"
         android:textColor="@android:color/black"
-        android:textSize="19dp" />
+        android:textSize="19sp" />
 
 
     <Button
@@ -46,7 +47,7 @@
         android:layout_marginTop="30dp"
         android:layout_marginRight="30dp"
         android:background="#238A28"
-        android:text="Minha conta fluig"
+        android:text="@string/minha_conta_fluig"
         android:textColor="@android:color/white" />
 
     <Button
@@ -56,7 +57,7 @@
         android:layout_marginTop="27dp"
         android:layout_marginRight="30dp"
         android:background="@android:color/white"
-        android:text="Demonstração"
+        android:text="@string/demonstra_o"
         android:textColor="#238A28" />
 
 

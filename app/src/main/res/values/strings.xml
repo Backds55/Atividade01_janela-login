@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Atividade_01_janela_login</string>
+    <string name="bem_vindo_ao_fluig">Bem-vindo ao fluig</string>
+    <string name="antes_de_come_ar_adicione_sua_conta_do_fluig">Antes de começar, adicione sua conta do fluig</string>
+    <string name="minha_conta_fluig">Minha conta fluig</string>
+    <string name="demonstra_o">Demonstração</string>
+    <string name="todo">TODO</string>
 </resources>
